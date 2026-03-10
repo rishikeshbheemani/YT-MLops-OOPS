@@ -1,11 +1,14 @@
-lst = [1,2,3]
-my_str = "mlops playlist"
-my_int = 155
+# lst = [1,2,3]
+# my_str = "mlops playlist"
+# my_int = 155
 
-#print(type(my_int))
+# #print(type(my_int))
 
-#print(lst)
+# #print(lst)
 
-a = 'x'
-b = 'y'
-print(a+b)
+# a = 'x'
+# b = 'y'
+# print(a+b)
+
+from oops_proj import chatbook
+user1 = chatbook()
